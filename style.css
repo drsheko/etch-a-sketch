@@ -1,6 +1,6 @@
 div{
     border: .5px dotted;
-    border-color: rgb(238, 235, 235);
+    border-color: rgb(235, 200, 200);
     width: 20px;
     height: 20px;
     margin: 0;
@@ -12,10 +12,18 @@ div{
     
     
 }
+.divGrid:hover {
+    background-color: black;
+}
+
+div.permanentHover{
+
+background-color: black;
+}
 
 
 .container{
-    background-color: aqua;
+    background-color:blanchedalmond;
     width: 22em;
     height: 22em;
     
