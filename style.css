@@ -1,0 +1,22 @@
+div{
+    border: .5px dotted;
+    border-color: rgb(238, 235, 235);
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    display:flex;
+    justify-items: center;
+    flex-wrap: wrap;
+    column-gap: 0px;
+    row-gap: 0 px; 
+    
+    
+}
+
+
+.container{
+    background-color: aqua;
+    width: 22em;
+    height: 22em;
+    
+}
